@@ -1,0 +1,38 @@
+body{
+    width: 1252px;
+}
+.absolute{
+    position: relative;
+}
+.pic{
+    position: absolute;
+    top: 30%;
+}
+.cinema{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.find{
+    width: 250px;
+    height: 47px;
+    margin-top: 1%;
+    margin-left: 13%;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+}
+.cardd{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.name{
+    font-size: 17px;
+}
+.centerr{
+    margin-left: 2%;
+}

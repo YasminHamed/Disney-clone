@@ -1,0 +1,33 @@
+
+nav {
+    margin: 25px;
+    padding: 16px;
+}
+.menuItems {
+    list-style: none;
+    display: flex;
+}
+li {
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+}
+.explore{
+    margin-left: 90px;
+}
+.Row{
+    flex-flow: wrap;
+}
+.name{
+    font-size: 15px;
+}
+button{
+    border: none;
+    border-radius: 20px;
+    margin-left: 30px;
+}
